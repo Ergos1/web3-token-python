@@ -6,7 +6,7 @@ Using this package you can verify web3 token, get signer, signed message and sta
   
 To download web3-token, either fork this github repo or simply use PyPI via pip.  
 ```sh
-$ pip install web3-token
+$ pip install web3-token-new
 ```
   
 ## Usage  
